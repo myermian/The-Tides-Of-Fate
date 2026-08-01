@@ -6,7 +6,7 @@ Lord Malakor was not born evil. Once a renowned scholar, his ruin began with his
 
 Upon touching the amulet, its cursed power surged into Malakor, corrupting his mind with delusions of absolute dominion. Desiring supreme rule over the entire archipelago, he used the amulet's dark magic to corrupt his own three children—Vespera, Ignis, and Null—stripping away their humanity and twisting them into his faithful lieutenants. He dispatched them to the three surrounding island shrines, where they infected the ancient protective Orbs that once shielded the realm from darkness.
 
-With the Orbs infected and the realm defenseless, Malakor set his ultimate plan into motion. He discovered that the true identify of the Angelic Goddess in human form. Malakor kidnapped her to his mountain stronghold for one horrific purpose: to sacrifice her under a celestial alignment, transforming the sky's full moon into a blood-red moon. This blood sacrifice will tear open a permanent portal to the Abyss, allowing dark entities to swallow the entire ocean realm whole.
+With the Orbs infected and the realm defenseless, Malakor set his ultimate plan into motion. He discovered the true identity of **Elora**—an angelic goddess living in human form, raising orphaned children on a hidden farm. Malakor kidnapped her to his mountain stronghold for one horrific purpose: to sacrifice her under a celestial alignment, transforming the sky's full moon into a blood-red moon. This blood sacrifice will tear open a permanent portal to the Abyss, allowing dark entities to swallow the entire ocean realm whole.
 
 ---
 

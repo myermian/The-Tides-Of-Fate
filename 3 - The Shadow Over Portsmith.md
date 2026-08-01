@@ -30,10 +30,11 @@
 ## Scene 2: Town Exploration (Optional Branch)
 
 ### Exploration Mechanics
-* **Searching Random Buildings:** If the players explore any ruined houses, taverns, or shops in town, they trigger low-to-mid-level ambushes to drain minor resources.
-  * **Encounter (1d4 Roll):** 
-    1. 4x *Shadow Stalkers* (HP 45, AC 14, +6 to hit, 2d6 + 3 necrotic)
-    2. 2x *Abyssal Hounds* (HP 68, AC 15, +7 to hit, 2d8 + 4 piercing + knock prone)
+* **Searching Random Buildings:** If the players explore any ruined houses, taverns, or shops in town, they **may** trigger low-to-mid-level ambushes to drain minor resources. Roll **1d4** each time they search a new building:
+  * **1.** 4× *Shadow Stalkers* (HP 45, AC 14, +6 to hit, 2d6 + 3 necrotic)
+  * **2.** 2× *Abyssal Hounds* (HP 68, AC 15, +7 to hit, 2d8 + 4 piercing + knock prone)
+  * **3.** 1× *Drown-Brute* (HP 85, AC 15, +8 to hit; **Multiattack:** 2 Slams at 2d8 + 5 bludgeoning; **Anchor Swing:** 10 ft reach, 3d8 + 5 bludgeoning, DC 15 STR save or **Prone**; **Undead Fortitude**)
+  * **4.** Empty building—dust, debris, and silence. No encounter, no negative consequences.
 * **Heading Straight to the Manor:** Leads to **Scene 2A**.
 * **Heading Straight to the Castle:** Skip to **Scene 3**.
 
@@ -91,7 +92,7 @@ As the party leaves town and treks up the jagged mountain path toward the castle
 >
 > Malakor doesn't even turn around. He glances back over his shoulder, a translucent, impenetrable **Abyssal Shield** surrounding his body.
 >
-> *"The full moon reaches its zenith,"* Malakor’s voice echoes like grinding stone. *"Childish pests... you are too late for the blood ritual. Children! Dispose of them!"*
+> *"The full moon reaches its zenith,"* Malakor’s voice echoes like grinding stone. *"Childish pests... you are moments too late—the ritual begins the instant her blood is spilled. Children! Dispose of them!"*
 >
 > Vespera, Ignis, and Null step forward in unison, drawing their weapons. Though their aura is visibly dimmed and weakened by the cleansed orb shrines, fighting all three together presents a formidable wall of steel, blood, and shadow.
 
