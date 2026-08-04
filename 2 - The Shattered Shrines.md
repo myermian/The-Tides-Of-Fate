@@ -7,7 +7,7 @@
   2. **2.2 — The Isle of Silence** (Null / Mana Suppression)
   3. **2.3 — The Isle of Fog** (Vespera / Heavy Crowd Control & Illusions)
 * **Captain Tobias Dialogue & Journey Tracker:**
-  * **Before Island 1:** Captain Tobias asks, *"Where to first?"* If asked for advice, Tobias responds: *"If you're asking me, start with the **Isle of Rot**. It's nasty, but straight forward brute force. Save the **Isle of Silence** for next, and leave the **Isle of Fog** for last—that mind-mist is pure malice."*
+  * **Before Island 1:** Captain Tobias asks, *"Where to first?"* If asked for advice, Tobias responds: *"If you're asking me, start with the **Isle of Rot**. It's nasty, but straightforward brute force. Save the **Isle of Silence** for next, and leave the **Isle of Fog** for last—that mind-mist is pure malice."*
   * **Before Island 2:** Captain Tobias asks, *"Where to next?"*
   * **Before Island 3:** Captain Tobias says, *"One more to go, I'm all stocked up, rest up, I'll wake you when we get there."*
 * **Logistics & Isolation Rule:** Upon dropping the party off at any island, **Captain Tobias** declares he is returning to Oakwood (or staying off-coast) to restock supplies and prepare the ship. He will return at dawn or when signaled. This prevents early exits or retreats mid-dungeon.
@@ -18,7 +18,7 @@
 ## 2.1 — The Isle of Rot (Ignis & The Orb of Life)
 
 ### Environmental Hazard: Corroding Mist
-Until the **Orb of Life** is cleansed, necrotic acid pollutes the air and tidepools. At the start of every combat round, all players take **1d6 Necrotic Damage** and cannot regain HP through natural means (non-magical healing/salves still work).
+Until the **Orb of Life** is cleansed, necrotic acid pollutes the air and tidepools. At the start of every combat round, all players take **1d6 Necrotic Damage** and cannot regain HP through Hit Dice, Long Rests, or any healing spells and cantrips. Only Apothecary Salves or healing administered by an NPC will function.
 
 ### Scene 1: Arrival & Tobias’s Departure
 > *Read or paraphrase to the players:*
@@ -37,7 +37,7 @@ Until the **Orb of Life** is cleansed, necrotic acid pollutes the air and tidepo
 
 | Enemy Name | HP | AC | Speed | Key Stats / Saves | Key Actions & Abilities |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Blight-Plague Behemoth** (x2) | 180 | 16 | 30 ft | STR +9, CON +8 (Save +12) | **Multiattack:** 2 Cleaves (+11 to hit, 2d12 + 7 slashing + 1d8 acid).<br>**Vomit Bile (DC 17 CON Save):** 15-ft cone, 6d6 acid damage. |
+| **Blight-Plague Behemoth** (x2) | 180 | 16 | 30 ft | STR +7, CON +8 (Save +12) | **Multiattack:** 2 Cleaves (+11 to hit, 2d12 + 7 slashing + 1d8 acid).<br>**Vomit Bile (DC 17 CON Save):** 15-ft cone, 6d6 acid damage. |
 | **Corpse-Sludge Crawler** (x3) | 85 | 14 | 30 ft, Swim 40 ft | DEX +4, CON +5 | **Acid Burst:** Explodes on death for 4d6 acid damage to creatures within 10 ft (**DC 16 DEX Save** for half). |
 
 ### !! BATTLE: Ignis the Flesh-Rotter (Boss Encounter)
@@ -67,8 +67,7 @@ Defeating Ignis purifies the land. Touching the orb grants the **Orb of Life Ble
 
 ### Environmental Hazard: Mana Suppression
 Until the **Orb of Power** is cleansed, the island’s void aura chokes high-tier arcane energy.
-* **Spell Limit:** Spells of **4th level or higher cannot be cast**, and lower-level spells **cannot be upcasted past 3rd level** (attempts to do so automatically fail and waste the action, but do not consume the spell slot).
-* **Martial Burden:** Martial features cost double resource points (e.g., 2 Ki points or 2 Superiority Dice instead of 1).
+* **Spell Limit:** Spells of **5th level or higher cannot be cast**, and lower-level spells **cannot be upcasted past the 4th level** (attempts to do so automatically fail and waste the action, but do not consume the spell slot). Furthermore, all spells have a **double cost**.
 
 ### Scene 1: Arrival & Tobias’s Departure
 > *Read or paraphrase to the players:*
@@ -109,7 +108,7 @@ Until the **Orb of Power** is cleansed, the island’s void aura chokes high-tie
 * **3 Actions - Void Aura (1 Round):** Emits a 20-ft aura of total silence until his next turn. No spells with Verbal components can be cast within it.
 
 ### Cleansing the Shrine
-Defeating Null restores the ley-lines. Touching the orb grants the **Orb of Power Blessing** (*Casters get +1 spell slot per level 1st–6th; Martials get +1 Action Surge/Resource & +2 damage*). Tobias returns to pick up the party.
+Defeating Null restores the ley-lines. Touching the orb grants the **Orb of Power Blessing** (*+2 to your primary spellcasting ability score up to a maximum of 22, +1 to Spell Attack Rolls and Spell Save DC, and all spells cast using spell slots automatically gain 1 free level upcast*). Tobias returns to pick up the party.
 
 ---
 

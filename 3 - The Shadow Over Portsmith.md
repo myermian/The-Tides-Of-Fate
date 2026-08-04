@@ -23,7 +23,7 @@
 >
 > He points up the winding stone path toward a cliffside estate overlooking the ruined town, then shifts his gaze further up toward the looming volcanic spire beyond. 
 >
-> "Before he became the Dark Lord Malakor, he was just Lord Malek. He lived up there in that large manor at the top of the hill. But when the darkness took him, he abandoned it and seized the royal castle at the foot of the mountain. Be careful out there—this town is dead, but it isn't empty."
+> "Before he became the Dark Lord Malakor, he was just Lord Malek. He lived up there in that large manor at the top of the hill. But when the darkness took him, he abandoned it and seized the royal castle at the foot of the mountain. That white beam that struck the mountain peak shattered the barrier shielding the whole island, but be careful—this town is dead, but it isn't empty."
 
 ---
 
@@ -113,6 +113,19 @@ DM NOTE: Any player attempt to attack or move toward Malakor during this phase a
 
 ---
 
+## Scene 5.1: Divine Respite (Easy / Normal Difficulty)
+
+> *Read or paraphrase to the players:*
+> 
+> As the final sibling falls, silence descends upon the inner sanctum. On the altar above, the bound figure of your mother, Elora, begins to pulse with a warm, brilliant golden radiance. Though she remains unconscious, her divine power surges outward in a gentle wave of light that washes over each of you. 
+> 
+> Your wounds stitch close, your exhaustion evaporates, and your magical energy surges back to full strength.
+
+DM NOTE (Difficulty Tuning):
+  - Easy / Normal Difficulty: The divine pulse grants the entire party the full benefits of a Long Rest (restoring all Hit Points, Spell Slots, and limited-use class features). 
+  - Restock Exception: Consumable items (such as Cora's Apothecary Salves) are NOT restocked by this effect.
+  - Hard Mode (Optional): If playing on Hard Difficulty, omit this divine pulse. The party receives no rest benefits before confronting Malakor, carrying over whatever resources remain from the fight with the siblings.
+
 ## Scene 5: Malakor Unbound
 
 Upon the defeat of the three siblings, they collapse to the stone floor, their dark forms dissolving into harmless smoke. 
@@ -124,6 +137,8 @@ Upon the defeat of the three siblings, they collapse to the stone floor, their d
 > *"Useless fools,"* Malakor sneers, stepping off the dais as his Abyssal Shield dissipates into thin air. *"Defeated by mortals. No matter. The ritual is nearly complete, and I will tear your souls apart with my own hands!"*
 
 ---
+
+DM Note: With his shield shattered and his children fallen, Malakor’s defense drops to AC 20.
 
 ## !! BATTLE: Dark Lord Malakor (Final Boss)
 

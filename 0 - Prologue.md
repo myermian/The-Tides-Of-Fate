@@ -8,7 +8,7 @@
 >
 > For days, you have pursued him across the archipelago. He has kidnapped your mother, **Elora**, dragging her toward his dark fortress. You push your ship to its absolute limit, drawing alongside his flagship. Iron grapples fly through the storm, locking the two vessels together. Weapons drawn, you leap across the gap onto his wood deck, intent on cutting down the warlord and bringing your mother home.
 >
-> Standing at the helm, clad in jagged, tide-carved plate armor, Malakor turns to face you. He holds a massive sword in one hand, while a sinister, pulsing obsidian pendant—the **Amulet of the Abyss**—glows against his chest. Wrapped around him is a translucent, swirling barrier of impenetrable hydro-energy: **The Abyssal Shield**.
+> Standing at the helm, clad in jagged, tide-carved plate armor, Malakor turns to face you. He holds a massive sword in one hand, while a sinister, pulsing obsidian pendant—the **Amulet of the Abyss**—glows against his chest. Wrapped around him is a translucent, swirling barrier of impenetrable dark-energy: **The Abyssal Shield**.
 >
 > "Fools," Malakor sneers, his voice echoing with demonic resonance. "You rush to your deaths like waves crashing against a cliff."
 
@@ -23,11 +23,11 @@
 
 ### Boss Stat Block: Dark Lord Malakor (Full Shielded Power)
 
-| Stat | Value | Stat | Value |
-| :--- | :--- | :--- | :--- |
-| **Armor Class** | 22 (Impenetrable Barrier) | **Hit Points** | ??? (Immune to all damage) |
-| **Speed** | 30 ft, Swim 40 ft | **Saving Throws** | All Saves +12 |
-| **Damage Immunities** | **ALL DAMAGE** (Shielded by the 3 Corrupted Orbs) | **Condition Immunities** | ALL Conditions |
+| Stat                  | Value                     | Stat                 | Value                     |
+| :-------------------- | :------------------------ | :------------------- | :------------------------ |
+| **Armor Class**       | 22 (Impenetrable Barrier) | **Hit Points**       | ??? (Immune to all damage)|
+| **Speed**             | 30 ft, Swim 40 ft         | **Saving Throws**    | All Saves +12             |
+| **Damage Immunities** | **ALL DAMAGE** (Shield)   | **Condition Immun**  | ALL Conditions            |
 
 #### Actions & Abilities
 * **Multiattack:** Malakor makes two *Abyssal Greatsword* attacks.

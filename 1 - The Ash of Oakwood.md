@@ -12,7 +12,7 @@
 
 ### Roleplaying Cora Earth-Binder
 * **Cora's Explanation:** She introduces herself as the local apothecary. When asked where they are, she explains that **Captain Tobias** dragged them out of the ocean while riding out a storm on his fishing boat. He brought them straight to **The Salty Drift** (the village inn) so she could tend to their injuries.
-* **The Salves:** She hands each player a pouch containing **3x Apothecary Salves** (*Bonus Action to use; restores 2d8 + 4 HP*). She beams with pride, telling them to keep them handy before heading out to check on other townspeople.
+* **The Salves:** She hands each player a pouch containing **3x Apothecary Salves** (*Bonus Action to use; restores health*). She beams with pride, telling them to keep them handy before heading out to check on other townspeople.
 
 ---
 
@@ -194,7 +194,12 @@ Seeing their valor and hearing of their divine quest to rescue their mother, Cap
 
 > "You saved my grandchildren and brought light back to Oakwood. As long as blood pumps through my veins, *The Salty Sea-Dog* is yours. I'll ferry you to the ends of the earth to break Malakor's hold and bring your mother home."
 
+DM NOTE (Small Party Check):
+- If Party Size is 3: Ryan Earth-Binder steps forward, gripping his longsword and shield with determination. "You saved my children when I was too weak to protect them," Ryan says, his voice thick with emotion. "I won't let you face Malakor's forces alone. I'm coming with you." (Ryan joins the party as an active combat companion; see stat block in `A - Overview.md`).
+- If Party Size is 4 or more: Ryan grips the heroes' hands in deep gratitude. "I must stay behind to keep Oakwood's defenses secure while you are away. May the tides favor you, heroes."
+
 ### Chapter Ending
+
 Captain Tobias instructs the party to get a good night's sleep at *The Salty Drift*. He promises to spend the night stocking his ship with fresh water, rations, and Cora’s **Apothecary Salves**.
 
-The heroes take a well-deserved **Long Rest**. Tomorrow, they set sail on their adventure, but which shrine do they visit first? 
+The heroes take a well-deserved **Long Rest**. Tomorrow, they set sail on their adventure, but which shrine do they visit first?

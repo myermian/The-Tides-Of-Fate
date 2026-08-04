@@ -12,15 +12,47 @@ With the Orbs infected and the realm defenseless, Malakor set his ultimate plan 
 
 ## Campaign Rules & Mechanics (DM Quick Reference)
 
-* **Party Size:** Scalable for 3 to 6 Players (Level 11).
+* **Party Size/Scaling:** Scalable for 3 to 6 Players (Level 11).
+  * **Hard Mode**: A full party of 6 players is strongly recommended for Hard Mode.
+  * **Small Party**: If the party consists of only 3 players, Ryan Earth-Binder joins the party as a permanent NPC companion to balance action economy and frontline defense.
 * **Resting & Logistics:** Boarding *The Salty Sea-Dog* automatically grants a **Long Rest** and fully restores spell slots, health, and provisions.
-* **Healing Provision:** **Apothecary Salves** (Bonus Action to use; restores **2d8 + 4 HP**). Restocked by Captain Tobias on every voyage (Default: 3 per player per island).
+* **Healing Provision:**
+  * **Apothecary Salves** (Bonus Action to use; restores minor health). Restocked by Captain Tobias on every voyage (Default: 3 per player per island). The healing is **3d10 + 4 HP** (easy), **3d8 + 4 HP** (normal), and **3d6 + 4 HP** (hard).
+  * **Potions of Full Healing**: (Full Action) Completely restores HP to maximum. Provided by Captain Tobias before the final assault on Portsmith.
 * **Archipelago Orb Blessings (Stacking Global Buffs):**
   * **Orb of Life (Isle of Rot):** Clears *Corroding Mist*. All party members automatically **regenerate 1d8 + 4 HP** at the start of their combat turns.
   * **Orb of Power (Isle of Silence):** Clears *Mana Suppression*. 
-    * *Spellcasters (Any class):* Gain **+1 extra spell slot per level (1st–6th)**.
+    * *Spellcasters (Any class):* Gain **+1 extra spell slot per level (1st–6th)** and all spells are upcasted 1 level for free.
     * *Martial/Non-Caster Classes:* Gain **+1 extra Action Surge or Resource Use** (e.g., Ki Points, Rage) per rest and **+2 damage** on all weapon attacks.
   * **Orb of Clarity (Isle of Fog):** Clears *Fog of Doubt*. Grants permanent **Advantage** on the party's first attack roll or saving throw each turn.
+
+### Companion NPC Stat Block: Ryan Earth-Binder
+
+**Ryan Earth-Binder** *Medium Humanoid (Human), Neutral Good*
+| Stat            | Value                       | Stat                  | Value                 |
+| :-------------- | :-------------------------- | :-------------------- | :-------------------- |
+| **Armor Class** | 18 (Plate Armor & Shield)   | **Hit Points**        | 115 (11d10 + 44)      |
+| **Speed**       | 30 ft.                      | **Saving Throws**     | STR +8, CON +8        |
+| **Skills**      | Athletics +8, Perception +5 | **Senses**            | Passive Perception 15 |
+| **Languages**   | Common                      | **Challenge / Level** | Level 11 Companion    |
+
+**Traits**
+- **Protection Style**: When a creature Ryan can see attacks a target other than him that is within 5 feet of him, Ryan can use his Reaction to impose Disadvantage on the attack roll.
+- **Sentinel**: When Ryan hits a creature with an Opportunity Attack, the creature's speed becomes 0 for the remainder of the turn.
+
+**Actions**
+- **Multiattack**: Ryan makes two weapon attacks with his Longsword.
+- **Longsword**: *Melee Weapon Attack*: +8 to hit, reach 5 ft., one target. *Hit*: 1d8 + 4 slashing damage (or 1d10 + 4 if used two-handed).
+- **Shield Bash (Bonus Action)**: Ryan attempts to shove a creature within 5 feet of him using his shield. The target must succeed on a DC 16 Strength saving throw or be knocked Prone.
+
+**Tactical AI & DM Guide for Ryan**
+- **Primary Role**: Frontline Defender / Tank.
+- **Combat Behavior**: Ryan positions himself between vulnerable party members and the primary melee threats. He prioritizes protecting low-HP casters or squishy party members using his **Protection Style** reaction.
+- **Action Priority**:
+  1. Use **Shield Bash** as a Bonus Action to knock dangerous foes Prone, giving melee allies Advantage on attacks.
+  2. Attack the nearest priority target using **Multiattack**.
+  3. Use **Protection Style** on his Reaction whenever an adjacent ally is targeted by a melee or ranged attack.
+- **Out-Of-Combat Utility**: Ryan assists with heavy lifting, door breaches, and physical checks, stepping back to let players take the lead during diplomatic encounters.
 
 ---
 
@@ -48,7 +80,7 @@ Captain Tobias is a weathered sailor in his late 50s with a braided gray beard, 
 Elder Miriam is a tall, matriarchal woman in her late 60s wearing draped woven shawls and carrying a walking staff topped with smoothed driftwood. She is stern, wise, and cautious, but deeply burdened by the suffering of her people under the orb's corruption. When Captain Tobias brings the party to Oakwood, she asks them for help to fend off the beasts attacking their village.
 
 ### Cora Earth-Binder
-Cora is a young woman with ink-stained fingers, messy copper hair, and leather pouches brimming with dried sea-herbs tucked into her apron. She is quirky, fast-talking, and obsessed with brewing remedies from strange flora. She treats the party's injuries after their rescue. She crafts the Apothecary Salves (**2d8 + 4 HP**, Bonus Action) that Captain Tobias restocks for the party throughout their voyage.
+Cora is a young woman with ink-stained fingers, messy copper hair, and leather pouches brimming with dried sea-herbs tucked into her apron. She is quirky, fast-talking, and obsessed with brewing remedies from strange flora. She treats the party's injuries after their rescue. She crafts the Apothecary Salves (**healing**, Bonus Action) that Captain Tobias restocks for the party throughout their voyage.
 
 ### Bram Iron-Hand
 Bram is a broad, burly dwarf with a singed leather apron, thick arm tattoos depicting sea-serpents, and a soot-stained face. He is plain-spoken, hard-working, and fiercely appreciative of martial talent. When Captain Tobias brings the party to Oakwood, Bram repairs their equipment and armor, continuing to offer maintenance throughout their journey.
