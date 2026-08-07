@@ -1,10 +1,10 @@
-# The Tides of Fate - Overview
+# 🔱 The Tides of Fate - Overview
 
 When their mother, **Elora**, is taken by **The Dark Lord Malekor**, a brave band of siblings sets sail into the unknown. Taking place across the island-dotted waters of **Thalassia**, *The Tides of Fate* propels the party on a high-seas adventure filled with colorful allies, treacherous hazards, and the desperate quest to reunite their family.
 
 ---
 
-## Campaign Rules & Mechanics
+## 📖 Campaign Rules & Mechanics
 
 * **Difficulty Scaling:** Designed for 3–6 Players (Level 11), with three difficulty tiers: Easy, Normal, and Hard.
 * **Resting & Logistics:** Boarding **The Salty Sea-Dog** automatically grants a **Long Rest**, fully restoring spell slots, health, and provisions.
@@ -70,5 +70,4 @@ Finnegan is a young tide-shaper wizard studying under Mariam. Wearing sea-salt-s
 Finn is a nimble, sun-weathered harbor-runner with sea-salt-stained leather armor and dual daggers. Having grown up navigating the hidden sea caves around Oakwood, he speaks quietly, moves without a sound, and excels at scouting ahead to catch enemies off guard.
 
 ### Sir Roderick
-Sir Roderick is a high-ranking knight of Portsmith and Malek’s closest companion.
-A high-ranking knight of Portsmith and Malek’s closest martial companion. He is a tall and strong man clad in heavy armor. He is a disciplined, battle-hardened commander who balances unyielding martial pride with a strict code of duty.
+Sir Roderick is a high-ranking knight of Portsmith and Malek’s closest companion. He is a tall and strong man clad in heavy armor. He is a disciplined, battle-hardened commander who balances unyielding martial pride with a strict code of duty.
