@@ -1,6 +1,10 @@
 # The Tides of Fate - Companions
 
-## **Ryan (Warrior, Earth-Binder)**
+## Cora (Apothecary)
+
+## Bram (Iron-Hand)
+
+## Ryan (Earth-Binder)
 
 *Medium Humanoid (Human), Neutral Good*
 
@@ -29,4 +33,10 @@
   3. Use **Protection Style** on his Reaction whenever an adjacent ally is targeted by a melee or ranged attack.
 - **Out-Of-Combat Utility**: Ryan assists with heavy lifting, door breaches, and physical checks, stepping back to let players take the lead during diplomatic encounters.
 
-## **Cora (Apothecary, Earth-Binder)**
+## Gideon (Scholar)
+
+## Lyra (Sea Siren)
+
+## Finnegan (Wizard)
+
+## Finn (Scout)

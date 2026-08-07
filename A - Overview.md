@@ -13,7 +13,7 @@ When their mother, **Elora**, is taken by **The Dark Lord Malekor**, a brave ban
 
 ---
 
-## Characters
+## 👤 Characters
 
 ### The Dark Lord Malekor *(Formerly Malek)*
 The Dark Lord Malekor is a cold, imposing warlord clad in tide-carved abyssal armor. Devoid of mercy, he commands dark ocean forces with unyielding authority, viewing all people as instruments to sacrifice under the **Red Moon** to usher in eternal darkness.
@@ -56,6 +56,18 @@ Bram is a broad, burly dwarf with a singed leather apron, thick arm tattoos depi
 
 ### Ryan (Earth-Binder)
 Ryan is Captain Tobias’ son and the father of Kaelen and Lily. Unlike his father, who dedicated his life to the sea, Ryan chose the path of a shield-bearer, training rigorously in martial combat to defend Oakwood from landward threats. He is a steadfast, quiet man with broad shoulders, his father's determined jawline, and well-kept steel armor emblazoned with the village crest.
+
+### Gideon (Scholar)
+Gideon is Jonah's son and the archivist of Oakwood. He is a lean, sharp-eyed scholar with spectacles perched on his nose, carrying a leather-bound journal packed with field notes and anatomical sketches. Quiet and observant, his deep understanding of history and monster physiology allows him to analyze combat threats in real time.
+
+### Lyra (Sea Siren)
+Lyra is Maeve’s younger sister. She is a vibrant, spirited performer at **The Salty Drift** who plays a wooden lute carved from shipwreck timber. Her sea shanties carry ancient maritime magic that lifts spirits during dark times and turns the tide of combat.
+
+### Finnegan (Wizard)
+Finnegan is a young tide-shaper wizard studying under Mariam. Wearing sea-salt-stained robes and wielding a staff wrapped in dried kelp, he uses protective water currents and elemental ocean magic to shield his allies.
+
+### Finn (Scout)
+Finn is a nimble, sun-weathered harbor-runner with sea-salt-stained leather armor and dual daggers. Having grown up navigating the hidden sea caves around Oakwood, he speaks quietly, moves without a sound, and excels at scouting ahead to catch enemies off guard.
 
 ### Sir Roderick
 Sir Roderick is a high-ranking knight of Portsmith and Malek’s closest companion.
