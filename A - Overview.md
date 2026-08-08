@@ -1,4 +1,4 @@
-# 🔱 The Tides of Fate - Overview
+# 🔱 The Tides of Fate
 
 When their mother, **Elora**, is taken by **The Dark Lord Malekor**, a brave band of siblings sets sail into the unknown. Taking place across the island-dotted waters of **Thalassia**, *The Tides of Fate* propels the party on a high-seas adventure filled with colorful allies, treacherous hazards, and the desperate quest to reunite their family.
 
@@ -16,10 +16,10 @@ When their mother, **Elora**, is taken by **The Dark Lord Malekor**, a brave ban
 ## 👤 Characters
 
 ### The Dark Lord Malekor *(Formerly Malek)*
-The Dark Lord Malekor is a cold, imposing warlord clad in tide-carved abyssal armor. Devoid of mercy, he commands dark ocean forces with unyielding authority, viewing all people as instruments to sacrifice under the **Red Moon** to usher in eternal darkness.
+The Dark Lord Malekor is a cold, imposing warlord clad in tide-carved abyssal armor. Devoid of mercy, he commands dark forces with unyielding authority, viewing all people as instruments to sacrifice under the **Blood Red Moon** to usher in eternal darkness.
 
 ### Vespera The Mind-Weaver *(Formerly Ves)*
-Vespera is a haunting, levitating figure wrapped in dark silks whose voice echoes directly inside her victims' heads. Eerie and sadistic, she bends perceptions and weaves dark illusions, taking cruel delight in unraveling the minds of her foes.
+Vespera is a haunting figure wrapped in dark silks whose voice echoes directly inside her victims' heads. Eerie and sadistic, she bends perceptions and weaves dark illusions, taking cruel delight in unraveling the minds of her foes.
 
 ### Calix The Flesh-Rotter *(Formerly Cal)*
 Calix is a towering, armored brute encased in rusted plate mail that perpetually leaks black, acidic sludge. Driven by constant physical agony and rage, he fights as a hulking force of decay, seeking to inflict his misery on everyone around him.
