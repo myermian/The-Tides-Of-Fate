@@ -19,4 +19,3 @@ Armor Class     🛡️
 Speed           👟
 Resistence      🔰
 Immunities      🚫
-
