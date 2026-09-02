@@ -8,7 +8,7 @@ DM Notes        📜
 Tips            💡
 
 Action          🗡️
-Bonus Action    
+Bonus Action    ➕
 Reaction        ⚡
 Legendary       👑
 Environment     🌴
