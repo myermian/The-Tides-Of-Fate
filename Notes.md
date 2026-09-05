@@ -1,11 +1,14 @@
-hdk264@gmail.com
+General         💠
+Narration       💬
+Battle          ⚔️
+Exploration     🗺️
+Locations       📍
+Choice          ❓
+DM Notes        📜
+Tips            💡
 
 Character       👤
 Beastiary       🐉
-Battle          ⚔️
-Narration       💬
-DM Notes        📜
-Tips            💡
 
 Action          🗡️
 Bonus Action    ➕

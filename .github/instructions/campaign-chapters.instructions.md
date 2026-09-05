@@ -63,20 +63,24 @@ A general section is a main section that is not a part of a scene, but simply pr
 
 ### Story Section
 
-A story section has a meaningful name in its heading.
+A story section has a meaningful name in its heading. The body content of a story section should contain narrative content that is relevant to the story and should be written in a way that is easy for the Dungeon Master to read and understand.
 
 ### Battle Section
 
-A battle section contains the name of the battle and any additional information in its heading.
+A battle section contains the name of the battle and any additional information in its heading. The body content of a battle section should contain the stat blocks for the enemies, as well as any relevant information about the battle, such as terrain, environmental effects, and any special rules or mechanics that apply to the battle. The body content should also include any relevant information about the party's objectives, such as what they need to do to win the battle or what they need to do to avoid losing.
 
 NOTE: Battle stat blocks and detailed combat mechanics are not yet implemented in the campaign instructions. For any battle section, leave a clearly marked placeholder such as `(TODO: Battle Stat Block)` rather than inventing numbers.
 
-### Branching Choices Section(s)
+### Exploration Hub Section
 
-Branching notes are unique subsections which present the dungeon master with guidance on how to handle player choices that affect the story. Each branching choice should be presented as a subsection with a consistent naming pattern. The outcome of each choice should be clearly stated, including any narrative consequences, battles, or other effects. Try to avoid having too many nested choices, as this can make the chapter difficult to read and follow. Instead, consider breaking the chapter into multiple parts if there are too many branching choices.
+An exploration hub section contains a meaningful name in its heading and provides the Dungeon Master with guidance on how to handle player exploration and interaction with the environment. The body content of an exploration section contains a list of locations that the party can explore, as well as any relevant information about the environment, such as hazards, traps, or hidden items. The different areas within the exploration location should each be presented as a subsection with a consistent naming pattern. The body content of each area should be concise to avoid confusion, but may contain narrative consequences, battles, unique dialogues, etc.
 
-* `### Branching Choice 1: The Party Agrees to Help`
-* `### Branching Choice 2: The Party Declines to Help`
+### Branching Choice Section
+
+A branching choice section is a set of unique subsections which present the Dungeon Master with guidance on how to handle player choices that affect the campaign. Each branching choice should be presented as a subsection with a consistent naming pattern. The outcome of each choice should be clearly stated, including any narrative consequences, battles, or other effects. Try to avoid having too many nested choices, as this can make the chapter difficult to read and follow. Instead, consider breaking the chapter into multiple parts if there are too many branching choices.
+
+* `### ❓ Branching Choice 1: {Choice Description}`
+* `### ❓ Branching Choice 2: {Choice Description}`
 
 The body content of each branching choice should be concise to avoid confusion, but may contain narrative consequences, battles, unique dialogues, etc.
 
@@ -85,11 +89,8 @@ The body content of each branching choice should be concise to avoid confusion, 
 The narrative voice content is part of the body content of a section. It should follow a second person, present tense perspective, and should be written in a way that is easy for the Dungeon Master to read and understand. The narrative voice should also be consistent with the tone and style of the campaign.
 
 Example:
-
 ```md
-
 You step into the darkened chamber, the air thick with the scent of decay. The flickering torchlight casts eerie shadows on the walls, and you can hear the distant sound of dripping water echoing through the cavern.
-
 ```
 
 ### Character Speech Content
@@ -97,36 +98,32 @@ You step into the darkened chamber, the air thick with the scent of decay. The f
 The character speech content is part of the body content of a section. The dialogue should match the tone and style of the character. It is formatted in a manner that distinguishes it from narrative text using italics and quotation marks.
 
 Example:
-
 ```md
-
 The old man looked at you with a twinkle in his eye and a mischievous grin. *"I wasn't sure that would work!"* he exclaimed, shaking his head in disbelief.
-
 ```
 
-### Exploration Hubs Content
+### Exploration Hubs/Locations Content
 
-The exploration hubs content is part of the body content of a section. It should provide the Dungeon Master with clear guidance on how to handle player exploration and interaction with the environment. The exploration hub should be structured in a way that allows the Dungeon Master to easily reference and navigate the different locations within the hub. The exploration hub should also include any relevant information about the environment, such as hazards, traps, or hidden items. The different locations within the exploration hub should each be presented as a subsection with a consistent naming pattern. The body content of each location should be concise to avoid confusion, but may contain narrative consequences, battles, unique dialogues, etc.
+The exploration hubs (locations) content is part of the body content of a section. It should provide the Dungeon Master with clear guidance on how to handle player exploration and interaction with the environment. The exploration location should be structured in a way that allows the Dungeon Master to easily reference and navigate the different areas within the location. The exploration location should also include any relevant information about the environment, such as hazards, traps, or hidden items. The different areas within the exploration location should each be presented as a subsection with a consistent naming pattern. The body content of each area should be concise to avoid confusion, but may contain narrative consequences, battles, unique dialogues, etc.
 
 Example:
-
 ```md
+## 🗺️ Exploring The Lost City
+> 📜 Having discovered a map of the lost city, the party can choose to explore each of the areas.
 
-> 📜 Players can choose to explore each of the temples.
+* **Golden Temple**
+* **Council Chambers**
+* **River Bridge**
 
-* **Golden Temple:** The golden temple is located straight ahead and contains the golden treasures.
-* **Council Chambers:** The council chambers are located next to the golden temple, where **Master Arion** is currently holding a meeting. You can enter, but he may be too busy to talk.
-* **River Bridge:** The river bridge is located at the edge of the hub and leads to the forbidden forest. You can cross the bridge, but it may be dangerous.
-
-### Golden Temple
-
-...
-
-### Council Chambers
+### 📍 Golden Temple
 
 ...
 
-### River Bridge
+### 📍 Council Chambers
+
+...
+
+### 📍 River Bridge
 
 ...
 ```
@@ -137,24 +134,21 @@ The Dungeon Master notes content is part of the body content of a section. They 
 
 Example:
 ```md
-
 > 📜 The party has a limited amount of time to complete this section before the the chamber door closes. If they take too long, the consequences will be severe.
 >
 > 💡 To avoid an total party kill (TPK), consider accepting unique solutions to the puzzle. Adjust the difficulty and time limit based on the party's experience level (novice vs expert).
-
 ```
 
 ### Environmental Effects content
 
 Environmental effects content is part of the body content of a section. It contains information about the environment that may affect the party's actions, such as weather, terrain, and other environmental hazards. Environmental effects may also contain information about how the environment affects the party's abilities, such as movement speed, visibility, and other factors.
 
+Example:
 ```md
-
 > 📜 The chamber ahead contains numerous traps the players can avoid.
 >
 > 🌴 When a player pulls the wrong lever, a trap is triggered and they must make a DC 13 dexterity saving throw. On success, they leap out of the way before a blade emerges from the wall. On failure, they take 2D6 + 4 slashing damage.
 > ...
-
 ```
 
 ## Emoji Reference
@@ -163,8 +157,12 @@ Emojis act as visual markers that let the Dungeon Master (and any future tooling
 
 | Emoji | Meaning          | Description                                     |
 | :---- | :--------------- | :---------------------------------------------- |
+| `💠`  | General          | General information, context, or background     |
 | `💬`  | Narration        | Narrative scenes, dialogue, and roleplay        |
 | `⚔️`  | Battle           | Encounters, combat                              |
+| `🗺️`  | Exploration      | Exploration Hub                                 |
+| `📍`  | Locations        | Exploration Hub: Locations                      |
+| `❓`  | Choice           | Branching choices                               |
 | `📜`  | DM Notes         | Out-of-play guidance in a blockquote            |
 | `💡`  | Tips             | Helpful reminders or optional flavor for the DM |
 | `👤`  | Character        | Character entries                               |
