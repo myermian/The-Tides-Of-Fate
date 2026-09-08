@@ -1,3 +1,4 @@
+Rule/Mechanic   📖
 General         💠
 Narration       💬
 Battle          ⚔️
@@ -8,17 +9,32 @@ DM Notes        📜
 Tips            💡
 
 Character       👤
-Beastiary       🐉
-
-Action          🗡️
-Bonus Action    ➕
-Reaction        ⚡
-Legendary       👑
+Bestiary        🐉
+Legendary Beast 👹
 Environment     🌴
+Blessing        🌟
 
 Statistics      📊
-Hit Points      ❤️
+Challenge       ☠️
 Armor Class     🛡️
+Hit Points      ❤️
+Initiative      ⏱️
 Speed           👟
+Strength        🏋️
+Dexterity       🏃‍♂️
+Constitution    🧬
+Intelligence    🧠
+Wisdom          🧘‍♂️
+Charisma        🎭
+Skills          🤹
+Vulnerabilities 💔
 Resistence      🔰
 Immunities      🚫
+Gear            ⚒️
+Senses          👁️‍🗨️
+Language        🗣️
+Trait           ✨
+Action          🗡️
+Legendary       👑
+Bonus Action    ➕
+Reaction        ⚡

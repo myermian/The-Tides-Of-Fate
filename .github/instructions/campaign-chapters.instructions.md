@@ -13,6 +13,15 @@ A campaign chapter file is a playable, scene-by-scene document that a Dungeon Ma
 - [Campaign Overview]: Always cross-check names, places, items, ships, and mechanics against the campaign overview. It contains the authoritative information about the campaign's world and characters. It also serves as the single source of truth for all campaign-related details, namely any unique rules or mechanics. If a name or detail is not in campaign overview, do not invent one.
 - Continuity: You may reference earlier chapters for consistency (things already established and settled). Do not rely on later chapters for details or information because chapters are developed in order, so later chapters are likely unfinished. If a later development is needed, leave a clear note rather than asserting a fact.
 
+## Prologue
+
+The prologue is a special chapter that introduces the campaign and sets the stage for the story. The prologue is optional, but recommended.
+
+* The prologue should contain the campaign title followed by `(Prologue)`
+* The prologue should be short and concise, providing just enough information to set the stage for the campaign. It should not contain any major plot points or spoilers for later chapters.
+* The prologue should limit the usage of exploration hubs, branching choices, and battles. Those mechanics are better suited for the first chapter of the campaign, which is where the players should be introduced to these concepts.
+* Battle sections found in a prologue should be narrative-driven and not an actual encounter with consequences.
+
 ## Structure & Hierarchy
 
 The chapter file is a structured document with a clear hierarchy of headings. Use headings to indicate the structural role of each section. The hierarchy is important for both readability and for any future tooling that may parse the chapter files.
@@ -26,8 +35,6 @@ The chapter file is a structured document with a clear hierarchy of headings. Us
   - Do not put a horizontal rule after the title, and do not place one between other sub sections (H3+) because those sub sections are part of a main section.
 
 3. Sub sections (H3+): Each subsection belongs to a main section or another sub section. Use subsections to organize the main section: exploration options, roleplay prompts, branching choices, and battle scenarios.
-
-### Structural Example
 
 ```md
 # Chapter {Chapter Number}: {Chapter Title}
@@ -55,7 +62,7 @@ The chapter file is a structured document with a clear hierarchy of headings. Us
 
 ## Section Types
 
-Use the proper heading level for each section type. Each section type has a specific purpose and should be used consistently throughout the chapter. Use the proper emojis to indicate the type of section. Reference the [Emoji Reference](#emoji-reference) section for a complete list of emojis and their meanings.
+Use the proper heading level for each section type. Each section type has a specific purpose and should be used consistently throughout the chapter. Use the proper emojis to indicate the type of section. Reference the [Emojis] section for a complete list of emojis and their meanings.
 
 ### General Sections
 
@@ -67,9 +74,7 @@ A story section has a meaningful name in its heading. The body content of a stor
 
 ### Battle Section
 
-A battle section contains the name of the battle and any additional information in its heading. The body content of a battle section should contain the stat blocks for the enemies, as well as any relevant information about the battle, such as terrain, environmental effects, and any special rules or mechanics that apply to the battle. The body content should also include any relevant information about the party's objectives, such as what they need to do to win the battle or what they need to do to avoid losing.
-
-NOTE: Battle stat blocks and detailed combat mechanics are not yet implemented in the campaign instructions. For any battle section, leave a clearly marked placeholder such as `(TODO: Battle Stat Block)` rather than inventing numbers.
+A battle section contains the name of the battle and any additional information in its heading. The body content contains information about the battle, including monster (or group), environmental hazards, win conditions, etc. The battle section name does not have to match up to the monster name in the body content.
 
 ### Exploration Hub Section
 
@@ -83,6 +88,23 @@ A branching choice section is a set of unique subsections which present the Dung
 * `### ❓ Branching Choice 2: {Choice Description}`
 
 The body content of each branching choice should be concise to avoid confusion, but may contain narrative consequences, battles, unique dialogues, etc.
+
+### Battle Content
+
+The battle content is part of the body content of a battle section. It should contain the monster (or group of monsters). If it is a group of monsters with more than one instance of an monster, use letter markers to distinguish them apart. Each monster should be a reference link to an entry in the [Monsters Guide] for that chapter.
+
+Random battles can contain multiple variations of battle content to select from. The variations should be in a list. Additional information (Dungeon Master Notes, Environmental Hazards, Win Conditions, etc.) should specify which variation they are applicable towards.
+
+Utilize the proper [Emojis] to distinguish a monster from a legendary monster.
+
+Example:
+```md
+🐉 [Minion 1] (A), 🐉 [Minion 1] (B), 🐉 [Minion 1] (C), 👹 [Mini-Boss]
+
+> 📜 The party is only required to defeat the **Mini-Boss** and not any of the **Minion** enemies.
+>
+> 🌴 There is a poisonous cloud surrounding the **Mini-Boss** in a 10 foot radius. Entering this area inflicts you with **1d6 Poison Damage**.
+```
 
 ### Narrative Voice Content
 
@@ -109,6 +131,7 @@ The exploration hubs (locations) content is part of the body content of a sectio
 Example:
 ```md
 ## 🗺️ Exploring The Lost City
+
 > 📜 Having discovered a map of the lost city, the party can choose to explore each of the areas.
 
 * **Golden Temple**
@@ -139,7 +162,7 @@ Example:
 > 💡 To avoid an total party kill (TPK), consider accepting unique solutions to the puzzle. Adjust the difficulty and time limit based on the party's experience level (novice vs expert).
 ```
 
-### Environmental Effects content
+### Environmental Effects Content
 
 Environmental effects content is part of the body content of a section. It contains information about the environment that may affect the party's actions, such as weather, terrain, and other environmental hazards. Environmental effects may also contain information about how the environment affects the party's abilities, such as movement speed, visibility, and other factors.
 
@@ -150,34 +173,6 @@ Example:
 > 🌴 When a player pulls the wrong lever, a trap is triggered and they must make a DC 13 dexterity saving throw. On success, they leap out of the way before a blade emerges from the wall. On failure, they take 2D6 + 4 slashing damage.
 > ...
 ```
-
-## Emoji Reference
-
-Emojis act as visual markers that let the Dungeon Master (and any future tooling) quickly identify the type of section, action, or statistic. Use the following set consistently.
-
-| Emoji | Meaning          | Description                                     |
-| :---- | :--------------- | :---------------------------------------------- |
-| `💠`  | General          | General information, context, or background     |
-| `💬`  | Narration        | Narrative scenes, dialogue, and roleplay        |
-| `⚔️`  | Battle           | Encounters, combat                              |
-| `🗺️`  | Exploration      | Exploration Hub                                 |
-| `📍`  | Locations        | Exploration Hub: Locations                      |
-| `❓`  | Choice           | Branching choices                               |
-| `📜`  | DM Notes         | Out-of-play guidance in a blockquote            |
-| `💡`  | Tips             | Helpful reminders or optional flavor for the DM |
-| `👤`  | Character        | Character entries                               |
-| `🐉`  | Bestiary         | Monster entries                                 |
-| `🗡️`  | Action           | Battle information                              |
-| `➕`  | Bonus Action     | Battle information                              |
-| `⚡`  | Reaction         | Battle information                              |
-| `👑`  | Legendary Action | Battle information                              |
-| `🌴`  | Environment      | Environmental effects                           |
-| `📊`  | Statistics       | Stat-block: Key statistics                      |
-| `❤️`  | Hit Points       | Stat-block: Hit points                          |
-| `🛡️`  | Armor Class      | Stat-block: Armor class                         |
-| `👟`  | Speed            | Stat-block: Movement speed                      |
-| `🔰`  | Resistances      | Stat-block: Damage resistances                  |
-| `🚫`  | Immunities       | Stat-block: Damage immunities                   |
 
 ## Consistency Checklist
 
@@ -191,6 +186,6 @@ Use this checklist to ensure that a campaign chapter file is complete and consis
 - [ ] Consistency: All body content is verified against the [Campaign Overview] and previous chapters for consistency and accuracy.
 - [ ] Horizontal Rule: Each main section is separated by a horizontal rule (`---`); no sub sections are separated by horizontal rules.
 
----
-
 [Campaign Overview]: </1.0 - Overview.md>
+[Monsters Guide]: </2.0 - Monsters.md>
+[Emojis]: </.github/instructions/campaign.instructions.md#emojis>
